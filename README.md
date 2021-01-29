@@ -61,6 +61,6 @@ Here are some ideas to get you started...
       </a>                   
 <a href="#">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackernishanth&layout=compact"
-         width="600" height="300">
+         width="500" height="400">
       </a>
 
