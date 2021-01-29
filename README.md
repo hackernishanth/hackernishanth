@@ -57,10 +57,10 @@ Here are some ideas to get you started...
 ### My Stats ...
 <a href="#">
          <img src="https://github-readme-stats.vercel.app/api?username=hackernishanth&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
-         width="500" height="300">
+         width="500" height="250">
       </a>                   
 <a href="#">
          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackernishanth&layout=compact"
-         width="500" height="400">
+         width="500" height="300">
       </a>
 
