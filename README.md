@@ -51,9 +51,6 @@ Here are some ideas to get you started...
           width="50" height="50">
       </a>
 
-### My power...
-
-
 ### My Stats ...
 <a href="#">
          <img src="https://github-readme-stats.vercel.app/api?username=hackernishanth&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
