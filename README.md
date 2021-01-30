@@ -5,7 +5,7 @@ I am highly motivated, self Learner and keep updated.  I can solve the realtime 
 <summary> <strong> More about me</strong> </summary>
 Here are some ideas to get you started...
 
-- 🔭 I’m currently working on ... Intern @ My Game Solutions
+- 🔭 I’m currently working an ... Intern @ My Game Solutions
 - 🌱 I’m currently learning ... Deep Learning
 - 👯 I’m looking to collaborate on ... Computer Vision
 - 🤔 I’m looking for help with ... Industrial people to help my product sell in the world
