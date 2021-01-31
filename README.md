@@ -1,17 +1,16 @@
 ### 👋 Hi there!, I am Nishanth🤴...
-I am highly motivated, self Learner and keep updated.  I can solve the realtime problem's using machine learning and deep learning. Passionated to automate the world through "Data science". I have done Three realtime product's. It will move on.
+Highly Motivated, Self Learner, and Keep Updating in Emerging Technologies. Capable of solving real-time problems using Machine Learning and Deep Learning. Focused on the field of Data Science looks to leverage in-depth knowledge of data analysis to derive solution. Passionated to automate the world through "Data Science". Proven history of successful work with cross-functional teams and have done, Three real-time products.
 
 <details>
-<summary> <strong> More about me</strong> </summary>
-Here are some ideas to get you started...
+<summary> <strong> To Know more about me...</strong> </summary>
 
-- 🔭 I’m currently working an ... Intern @ My Game Solutions
+- 🔭 I’m currently working as an Intern @ My Game Solutions
 - 🌱 I’m currently learning ... Deep Learning
 - 👯 I’m looking to collaborate on ... Computer Vision
-- 🤔 I’m looking for help with ... Industrial people to help my product sell in the world
+- 🤔 I’m looking for help with ... Industrial people to help with my products sell in the world
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I am a oneironaut
+- ⚡️ Fun fact: ... I am an oneironaut 
 
 ### 😎My Platform...
 <p align="center">
