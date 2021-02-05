@@ -4,7 +4,7 @@ Highly Motivated, Self Learner, and Keep Updating in Emerging Technologies. Capa
 <details>
 <summary> <strong> To Know more about me...</strong> </summary>
 
-- 🔭 I’m currently working as an Intern @ My Game Solutions
+- 🔭 I’m currently working on Deep Learning
 - 🌱 I’m currently learning ... Deep Learning
 - 👯 I’m looking to collaborate on ... Computer Vision
 - 🤔 I’m looking for help with ... Industrial people to help with my products sell in the world
